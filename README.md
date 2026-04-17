@@ -22,7 +22,7 @@ callbacks to changes in Jupyter interactive widgets.
 
 ## Installation
 
-Voilà can be installed with the mamba (or conda) package manager from conda-forge
+Voilà can be installed with the mamba (or conda) package manager from conda-forge.
 
 ```
 mamba install -c conda-forge voila
